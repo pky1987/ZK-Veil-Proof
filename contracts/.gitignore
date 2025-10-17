@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+contracts/node_modules/
+contracts/out/
+contracts/cache/
+
